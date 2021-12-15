@@ -153,16 +153,16 @@ for c in choices:
 
 #The lines below can be used to simulate the code on OpenCV
 
-#import time 
-#import cv2
+import time 
+import cv2
 
-#cv2.namedWindow('img', cv2.WINDOW_NORMAL)
+cv2.namedWindow('img', cv2.WINDOW_NORMAL)
 
-# old = CM.conwayMatrix[:]
-# # for i in range(1000):
-# # 	cv2.imshow('img',CM.conwayMatrix[:] * 255)
-# # 	cv2.waitKey(10)
-# # 	CM.update()
+old = CM.conwayMatrix[:]
+for i in range(1000):
+	cv2.imshow('img',CM.conwayMatrix[:] * 255)
+	cv2.waitKey(10)
+	CM.update()
+	print(np.mean(np.abs(old-CM.conwayMatrix[:])))
 
-# print(np.mean(np.abs(old-CM.conwayMatrix[:])))
-# cv2.destroyAllWindows()
+cv2.destroyAllWindows()
