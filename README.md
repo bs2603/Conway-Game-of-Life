@@ -15,3 +15,6 @@ Images -
 
 2. ![Simulation pic1](https://github.com/bs2603/Conway-Game-of-Life/blob/master/CGol1.png)
 3. ![Simulation pic2](https://github.com/bs2603/Conway-Game-of-Life/blob/master/CGol2.png)
+
+
+Thank you for vising, my website - https://bs2603.github.io/
