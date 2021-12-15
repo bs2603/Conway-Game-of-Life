@@ -1,13 +1,13 @@
 # Conway-Game-of-Life
 
-## Hello!
-## Welcome to my simulation of conway's game of life. 
-## The code is in python and we simulate it using openCV.
-## you can choose (one or more) among 6 predefined patterns to simulate your CGol.
+### Hello!
+### Welcome to my simulation of conway's game of life. 
+### The code is in python and we simulate it using openCV.
+### you can choose (one or more) among 6 predefined patterns to simulate your CGol.
 
-## The code is adaptable to both python2 and python3.
+### The code is adaptable to both python2 and python3.
 
-## Instructions-
+### Instructions-
 
 1.open terminal   
 2.write ```gedit CGol.py``` and copy paste the code to gedit   
