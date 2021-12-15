@@ -7,7 +7,7 @@ you can choose (one or more) among 6 predefined patterns to simulate your CGol.
 
 The code is adaptable to both python2 and python3.
 
-You can download CGol.py given and run it using ```python3 CGol.py```. 
+You can download CGol.py given and run it by typing  ```python3 ./CGol.py``` on your terminal from the folder it is saved in. 
 
 
 
